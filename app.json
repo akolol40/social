@@ -3,10 +3,14 @@
   "displayName": "social",
   "expo": {
     "name": "social",
-    "slug": "social",
+    "slug": "social-is-MihailKharadjidi",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.ownunion.social",
+      "versionCode": 1
+    }
   }
 }
